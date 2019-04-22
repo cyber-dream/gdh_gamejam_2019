@@ -4,7 +4,7 @@ This game has been written for GDH gamejam. The theme was 'Brave New World' so w
 decided to implement the most basic part of the world - human production. 
 
 The thing is, in the future, according to Aldous Huxley, people don't usually give birth to their children. 
-We have special incubators where we can decide which caste our future childrem will belong to. 
+We have special incubators where we can decide which caste our future child will belong to. 
 
 Depending on the oxygen level during development child can be smarter, higher, etc. So, oxygen control is the main game mechanic. 
 Also, we always have to stick to the schedule. Otherwise we eventually will be fired.
