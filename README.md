@@ -14,3 +14,5 @@ He specifies how many humans of which type we have to produce.
 Then we turn on the incubator for specific type and keep oxygen level in bounds. The better caste, the smaller bounds.
 
 For solving tasks we earn DNA-points that we can spend on additional incubators. 
+
+![](ezgif-5-f147a1710306.gif)
